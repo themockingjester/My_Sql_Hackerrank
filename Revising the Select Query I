@@ -1,0 +1,2 @@
+select * from city 
+Where countrycode = 'USA' and population > 100000;
